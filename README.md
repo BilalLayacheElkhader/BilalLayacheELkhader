@@ -28,3 +28,20 @@
 
 
 
+
+## GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BilalLayacheElkhade&show_icons=true&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalLayacheElkhader&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BilalLayacheElkhade)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BilalLayacheElkhade)
+
+## Contributions
+
+![Repos](https://img.shields.io/github/repositories/BilalLayacheElkhade?style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/m/BilalLayacheElkhade?style=flat-square)
+
+
+
+
+
