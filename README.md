@@ -1,9 +1,9 @@
 ## Hi there 👋
-🔭 Working on mhub
-🌱 Learning everything necessary
-👯 Open to collaboration
-📫 Reach me at: linkedin.com/in/bilal-layache/
-⚡ Fun fact: i love 
+🔭 Working on mhub  
+🌱 Learning everything necessary  
+👯 Open to collaboration  
+📫 Reach me at: linkedin.com/in/bilal-layache/  
+⚡ Fun fact: i love   
 
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)
 ![Coffee](https://img.shields.io/badge/Coffee%20-%20Love%20it%20☕-brown)
