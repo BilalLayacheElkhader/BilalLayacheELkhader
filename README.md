@@ -11,6 +11,12 @@
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?logo=github)
 ![Project Status](https://img.shields.io/badge/Project%20Status-In%20Progress-yellow)
 ![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?logo=linkedin)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Coffee](https://img.shields.io/badge/Coffee-brown?logo=coffee&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-brightgreen?logo=github)
+![In Progress](https://img.shields.io/badge/In%20Progress-yellow)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)
+
 
 # My Skills
 
