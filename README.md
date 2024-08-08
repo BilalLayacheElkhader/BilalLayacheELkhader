@@ -32,19 +32,8 @@
 ## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BilalLayacheElkhader&show_icons=true&count_private=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalLayacheElkhader&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BilalLayacheElkhader)
-# Hi there, I'm BilalLayacheElkhader 👋
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BilalLayacheElkhader&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalLayacheElkhader&layout=compact)
-
-## Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BilalLayacheElkhader)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=BilalLayacheElkhader)
 
 
 
