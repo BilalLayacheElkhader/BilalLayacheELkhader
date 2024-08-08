@@ -31,15 +31,15 @@
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BilalLayacheElkhade&show_icons=true&count_private=true&hide=prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BilalLayacheElkhader&show_icons=true&count_private=true&hide=prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalLayacheElkhader&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BilalLayacheElkhade)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BilalLayacheElkhade)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BilalLayacheElkhader)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BilalLayacheElkhader)
 
 ## Contributions
 
-![Repos](https://img.shields.io/github/repositories/BilalLayacheElkhade?style=flat-square)
-![Commits](https://img.shields.io/github/commit-activity/m/BilalLayacheElkhade?style=flat-square)
+![Repos](https://img.shields.io/github/repositories/BilalLayacheElkhader?style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/m/BilalLayacheElkhader?style=flat-square)
 
 
 
