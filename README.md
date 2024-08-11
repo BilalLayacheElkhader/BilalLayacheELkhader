@@ -2,7 +2,7 @@
 
 ## About Me
 🔭 Working on mhub  
-🌱 Allways learning something new
+🌱 Allways learning something new  
 👯 Open to collaboration  
 📫 Reach me at: linkedin.com/in/bilal-layache/  
 
